@@ -1,1 +1,1 @@
-# CP-DP
+# Competitive Programming & Dynamic Programming Problems
